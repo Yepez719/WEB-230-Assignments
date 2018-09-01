@@ -1,0 +1,29 @@
+
+
+WEB-230 | How PHP Works – Server Side Scripting – Assignment
+Explain the following:
+
+Identify and explain the differences between server side and client side.
+(2 sentances)
+Server side is the back-end while client side is the front end. Client side scripting is run on the clients web browser, while
+server side runs on the host that runs the website. Server side runs before the website is loaded and client side runs after.
+
+Identify and explain the differences between scripting and programming languages.
+(2 sentances)
+A programming language needs to be compiled before running, where as a scripting language does not. Examples of a programming
+languages: C, C#, C++, and Java. Examples of scripting langauges: JavaScript, PHP, and SQL. There are languages that
+fall under both categories like Python.
+
+Explain what type of language PHP is.
+(2 sentances)
+PHP Hypertext Preprocessor is server scripting language used in web development. It can be used on any OS and is primarily used
+to collect form data, generate dynamic page content, or send and receive cookies.
+
+Explain the process of a request from client to server and back to client.
+(2 sentances)
+You type in a url, it then gets sent to the server. The server then pulls sends the request to a file and depending
+on what was requested (document, data) it then sends it to the client.
+
+Explain the differences between the different post types discussed in the video.
+(2 sentances)
+The different post types are files, documents, and databases. 
